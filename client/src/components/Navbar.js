@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 
 const Navbar = () => {
@@ -23,3 +24,19 @@ const Navbar = () => {
 };
 
 export default Navbar;
+=======
+import React from 'react'
+
+const Navbar = () => {
+  return (
+    <div>
+        <div>
+
+            
+</div>
+    </div>
+  )
+}
+
+export default Navbar
+>>>>>>> 718d236e926bddd5c02e4742b1bd8d77e398cf2d
